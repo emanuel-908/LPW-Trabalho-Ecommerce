@@ -38,11 +38,15 @@
                 </c:forEach>
             </div>
 
-            <div class="paginador">
+            <nav aria-label="Page navigation example">
+   <ul class="pagination">
+    <li class="page-item"><a class="ofertas" href="#">Previous</a></li>
+    <li class="page-item"><a class="ofertas" href="#">https://www.youtube.com/watch?v=eHSM-fzW3P8</a></li>
+    <li class="page-item"><a class="ofertas" href="#">2</a></li>
+    <li class="page-item"><a class="ofertas" href="#">Next</a></li>
+  </ul>
+</nav>
 
-               <a href="#" id="anterior"> anterior </a>
-               <a href="#" id="proximo"> proximo </a>
-            </div>
         </div>
         <script src="js/bootstrap.min.js"></script>
     </body>

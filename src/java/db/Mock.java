@@ -73,21 +73,21 @@ public class Mock {
             Produto lapis = new Produto();
             lapis.setDescricao("Lapis");
             lapis.setPreco(1.0f);
-            lapis.setOferta(false);
+            lapis.setOferta(true);
             lapis.setImagem("https://cdn.awsli.com.br/600x450/268/268329/produto/19914289/bcb456e23e.jpg");
             lista.add(lapis);
 
             Produto borracha = new Produto();
             borracha.setDescricao("Borracha");
             borracha.setPreco(1.5f);
-            borracha.setOferta(false);
+            borracha.setOferta(true);
             borracha.setImagem("https://images.tcdn.com.br/img/img_prod/698958/borracha_faber_castell_tons_pastel_fc_max_191_1_20190625134314.jpg");
             lista.add(borracha);
 
             Produto sulfite = new Produto();
             sulfite.setDescricao("Folha Sulfite");
             sulfite.setPreco(5.0f);
-            sulfite.setOferta(false);
+            sulfite.setOferta(true);
             sulfite.setImagem("https://http2.mlstatic.com/papel-sulfite-folha-a4-75-grs-pacote-c-500-unidades-D_NQ_NP_891083-MLB26996539385_032018-F.jpg");
             lista.add(sulfite);
         }
