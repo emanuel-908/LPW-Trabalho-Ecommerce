@@ -54,6 +54,7 @@ public class Mock {
             caneta.setPreco(1.5f);
             caneta.setOferta(true);
             caneta.setImagem("http://www.bavatos.com.br/content/images/thumbs/0001016_caneta-esf-cristal-azul-bic_580.jpeg");
+            caneta.setEspecificacao("blabalbalba");
             lista.add(caneta);
 
             Produto caderno = new Produto();
@@ -61,6 +62,7 @@ public class Mock {
             caderno.setPreco(5.5f);
             caderno.setOferta(true);
             caderno.setImagem("https://cdnv2.moovin.com.br/marbig/imagens/produtos/det/caderno-espiral-capa-plastica-universitario-1-materia-neon-lilas-96-folhas-img-56136.jpg");
+            caderno.setEspecificacao("blabalbalba");
             lista.add(caderno);
 
             Produto caneca = new Produto();
