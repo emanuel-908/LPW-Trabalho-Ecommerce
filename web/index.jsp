@@ -29,7 +29,7 @@
             String end = request.getParameter("fim");
 
             int inicio = init != null ? Integer.parseInt(init) : 0;
-            int fim = end != null ? Integer.parseInt(end) : 3;
+            int fim = end != null ? Integer.parseInt(end) : 6;
 
          %>
 
@@ -60,8 +60,8 @@
             <li class="page-item">
                </li>
 
-            <li class="page-item"><a class="page-link" href="?inicio=0&fim=3">1</a></li>
-            <li class="page-item"><a class="page-link" href="?inicio=3&fim=6">2</a></li>
+            <li class="page-item"><a class="page-link" href="?inicio=0&fim=6">1</a></li>
+            <li class="page-item"><a class="page-link" href="?inicio=6&fim=12">2</a></li>
                </nav>
 
         <script src="js/bootstrap.min.js"></script>

@@ -26,9 +26,10 @@
       <p> <%= Produto.lista.get(produtoId).getDescricao()%> </p>
       <p> <img src="<%=Produto.lista.get(produtoId).getImagem()%>" class="img-responsive" alt="img" style="width: 240px; height:320px"> </p>
       <p>R$: <%= Produto.lista.get(produtoId).getPreco()%> </p>
-      <p> <%= Produto.lista.get(produtoId).getEspecificacao()%> </p>
+    <h2>  <p> <%= Produto.lista.get(produtoId).getEspecificacao()%> </p> </h2>
 
 
       <button type="button" class="btn btn-success">Comprar</button>
+
    </body>
 </html>
