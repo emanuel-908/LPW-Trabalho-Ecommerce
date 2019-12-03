@@ -41,14 +41,11 @@
                             <h3>    <p class="card-text">R$<%= Produto.lista.get(produtoId).getPreco()%></p>      </h3>
                             <h4>     <p class="card-text"><%= Produto.lista.get(produtoId).getEspecificacao()%></p> </h4>  
                             <button type="button" class="btn btn-success">Comprar</button>
-
-
                         </div>
                     </div>
                 </div>
                 <%}%>
             </div>
         </div>
-
     </body>
 </html>
