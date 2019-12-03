@@ -138,7 +138,7 @@ public class Mock {
 
          Produto PlayStation = new Produto();
          PlayStation.setDescricao("PlayStation 4");
-         PlayStation.setPreco(5.0f);
+         PlayStation.setPreco(1200.0f);
          PlayStation.setOferta(true);
          PlayStation.setImagem("https://www.sony.com.br/image/4dcdfc5416b7185bb72d9d1baa260053?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF");
          PlayStation.setEspecificacao("Mais leve e mais fino, o sistema PlayStation 4 tem disco rígido de 1TB para tudo o que há de melhor em jogos, músicas e muito mais! O pacote PlayStation Hits oferece jogos incríveis que proporcionarão entretenimento sem fim com jogos dinâmicos e conectados, gráficos e velocidade intensos, personalização inteligente, recursos sociais integrados intensamente e inovadores recursos de segunda tela.\n"
@@ -148,7 +148,7 @@ public class Mock {
 
          Produto PCgamer = new Produto();
          PCgamer.setDescricao("Pc Gamer");
-         PCgamer.setPreco(5.0f);
+         PCgamer.setPreco(1500.0f);
          PCgamer.setOferta(true);
          PCgamer.setImagem("https://images-americanas.b2w.io/produtos/01/00/img13/412767/5/412767523_1GG.jpg");
          PCgamer.setEspecificacao("Com a linha Roda Tudo você poderá adquirir um Pc Gamer de baixo custo que está pronto para executar os jogos mais famosos do momento.\n"
@@ -158,7 +158,7 @@ public class Mock {
 
          Produto NintendoSwitch = new Produto();
          NintendoSwitch.setDescricao("Nintendo Switch");
-         NintendoSwitch.setPreco(5.0f);
+         NintendoSwitch.setPreco(1300.0f);
          NintendoSwitch.setOferta(true);
          NintendoSwitch.setImagem("https://target.scene7.com/is/image/Target/GUEST_5561e25a-a986-4b57-bba4-ee339796ae89?wid=325&hei=325&qlt=80&fmt=webp");
          NintendoSwitch.setEspecificacao("A Nintendo anunciou um modelo atualizado do console que difere do modelo original na longevidade da bateria. Enquanto o modelo original da Nintendo Switch tem uma bateria que dura entre 2.5 a 6.5 horas, o modelo atualizado tem uma bateria que dura entre 4.5 a 9 horas. É uma diferença considerável. No caso específico de The Legend of Zelda: Breath of the Wild, a bateria da Switch original permite jogar durante 3 horas. A bateria do novo modelo permite jogar durante 5.5 horas. Itens Inclusos: 01 - Console Nintendo Switch 01 - Nintendo Switch dock 01 - Joy-Con Azul Neon (Esquerdo) e Joy-Con Vermelho Neon (Direito) 01 - Dois acessórios de pulso Joy-Con 01 - Grip Joy-Con 01 - Cabo HDMI 01 - Adaptador de Força Nintendo Switch");
@@ -166,7 +166,7 @@ public class Mock {
 
          Produto SmartTV = new Produto();
          SmartTV.setDescricao("Smart TV");
-         SmartTV.setPreco(5.0f);
+         SmartTV.setPreco(700.0f);
          SmartTV.setOferta(true);
          SmartTV.setImagem("https://images-americanas.b2w.io/produtos/01/00/offers/01/02/item/133791/1/133791184_1GG.png");
          SmartTV.setEspecificacao("Smart TV LED 50” Sony KDL-50W665F Full HD - Wi-Fi HDR 2 HDMI 2 USB\n"
@@ -175,7 +175,7 @@ public class Mock {
 
          Produto Sofá = new Produto();
          Sofá.setDescricao("Sofá");
-         Sofá.setPreco(5.0f);
+         Sofá.setPreco(500.0f);
          Sofá.setOferta(true);
          Sofá.setImagem("https://www.casasbahia-imagens.com.br/Moveis/SaladeEstar/Sofas/9095762/456895098/sofa-4-lugares-linoforte-versalhes-com-assento-retratil-e-encosto-reclinavel-em-tecido-suede-9095759.jpg");
          Sofá.setEspecificacao("Conte com o Sofá 4 Lugares Linoforte Versalhes com Assento Retrátil e Encosto Reclinável em Tecido Suede para deixar a sua sala de estar muito mais confortável e sofisticada para receber os seus familiares, assistir muitos filmes ou mesmo fazer uma longa maratona do seu seriado preferido.\n"
@@ -187,7 +187,7 @@ public class Mock {
 
          Produto Teclado = new Produto();
          Teclado.setDescricao("Teclado e Mouse Sem Fio");
-         Teclado.setPreco(5.0f);
+         Teclado.setPreco(50.0f);
          Teclado.setOferta(true);
          Teclado.setImagem("https://images7.kabum.com.br/produtos/fotos/90237/90237_1524230401_index_gg.jpg");
          Teclado.setEspecificacao("Combo Teclado e Mouse Sem Fio de Entrada Multimídia USB Preto - TC212.");
